@@ -24,3 +24,31 @@
 
 // Custom styles:
 
+//jumbotron
+#header {
+  background-color: red;
+  background-image: url(../img/pirate-ship.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Indie Flower', cursive;
+  font-size:xx-large;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  background-color: rgb(76, 155, 187);
+  padding: 5px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.caption {
+  font-weight: bold;
+}
+.byline {
+  font-style: italic;
+}
